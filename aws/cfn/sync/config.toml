@@ -4,6 +4,6 @@ region = 'us-east-1'
 stack_name = 'CrdSyncRole'
 
 [parameters]
-GitHubOrg = 'pratiksinha-ans'
+GitHubOrg = 'pratiksinha-cruddur'
 RepositoryName = 'aws-bootcamp-cruddur-2023'
 OIDCProviderArn = ''
